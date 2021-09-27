@@ -1,0 +1,6 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10 92H240V156H10V92Z" fill="var(--color-contrast-low)"/>
+<path d="M20 24H250V88H20V24Z" fill="var(--color-contrast-low)"/>
+<path d="M98.3266 78.2887C103.929 78.2887 108.471 73.7469 108.471 68.1443C108.471 62.5417 103.929 57.9999 98.3266 57.9999C92.7239 57.9999 88.1821 62.5417 88.1821 68.1443C88.1821 73.7469 92.7239 78.2887 98.3266 78.2887Z" fill="var(--color-contrast-medium)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M117.402 92L88 121.402H172.96L155.458 92H117.402ZM121.402 88H153.077L141.258 68.1442L121.402 88Z" fill="var(--color-contrast-medium)"/>
+</svg>
